@@ -27,7 +27,7 @@ namespace WheelBearings
             
         private void FormTable_Load(object sender, EventArgs e)
         {
-             //code
+             
         }
 
         private void SearchButton_Click(object sender, EventArgs e)
